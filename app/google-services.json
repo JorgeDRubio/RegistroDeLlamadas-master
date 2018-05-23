@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77391244339",
+    "firebase_url": "https://llamadas2-f670e.firebaseio.com",
+    "project_id": "llamadas2-f670e",
+    "storage_bucket": "llamadas2-f670e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77391244339:android:e95d9788821a39e7",
+        "android_client_info": {
+          "package_name": "com.example.carlos.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77391244339-b7pg549b9ic04apb9vc709rptr2dnqou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVFI_8TsTlsbAMpYBYh9oWhqvN_LJ_lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
